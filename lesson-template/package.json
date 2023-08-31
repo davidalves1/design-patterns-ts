@@ -1,0 +1,14 @@
+{
+  "name": "lesson-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/index"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "tsx": "^3.12.7",
+    "typescript": "^5.2.2"
+  }
+}
